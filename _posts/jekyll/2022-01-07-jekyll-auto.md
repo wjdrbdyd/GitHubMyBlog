@@ -21,3 +21,4 @@ $ git add . # 현재 디렉토리 파일 add
 $ git commit --m "message" # 커밋 및 메시지 내용
 $ git push [-u origin main] 
 ```
+3. 깃 수정 테스트중 ... 
