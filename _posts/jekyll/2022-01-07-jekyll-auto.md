@@ -24,4 +24,5 @@ $ git push [-u origin main]
 3. travis key 암호화
 ```jekyll
 travis login --pro --github-token [본인 계정 토큰]
+travis encrypt --add env --override --com GITHUB_TOKEN=[토큰 키]
 ```
