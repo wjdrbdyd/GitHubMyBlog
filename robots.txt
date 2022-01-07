@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /privateData/
+
+Sitemap: https://wjdrbdyd.github.io/sitemap.xml
